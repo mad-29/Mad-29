@@ -62,25 +62,6 @@ Project Management  ███████████████████░
 
 ---
 
-## 📂 Featured Projects
-
-### 🐄 IoT Strategy for Udderly Good Dairy
-Strategic PESTLE & SWOT analysis for IoT implementation in a dairy farm context. Applied Soft Systems Methodology (SSM) to map complex business requirements.
-
-### 🏥 Digital Transformation in Healthcare
-Mixed-methods research on healthcare digital transformation — combining literature review with survey design (INF80003). Explored barriers and enablers of technology adoption.
-
-### 🌿 Green Meadows Plant Nursery System
-User requirements analysis and system design for a plant nursery. Applied structured elicitation techniques to document functional and non-functional requirements.
-
-### 📊 UCI Online Retail — Data Analytics
-Predictive modelling and data visualisation using the UCI Online Retail dataset. Techniques: decision trees, association rules, and k-means clustering in Orange Data Mining.
-
-### 🌟 Hopeful Horizons — Systems Analysis
-Relational and systems analysis for a community support organisation. Delivered HD-level critical analysis integrating stakeholder needs and process improvements.
-
----
-
 ## 📚 Academic Focus
 
 | Subject | Key Topics |
