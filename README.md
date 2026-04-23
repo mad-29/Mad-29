@@ -106,4 +106,4 @@ Relational and systems analysis for a community support organisation. Delivered 
 
 ---
 
-⭐ **Open to internship opportunities in Melbourne (and remote) — let's build something impactful together!**
+⭐ **Open to full-time roles and  in Australia (and remote) in Business Information Systems, Data Analytics, or IT Project Management — let's build something impactful together!— let's build something impactful together!**
