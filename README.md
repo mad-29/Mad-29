@@ -1,16 +1,109 @@
-## Hi there 👋
+# Hi, I'm Madhumitha! 👋✨
 
-<!--
-**mad-29/Mad-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&width=500&lines=Business+Information+Systems+%7C+MIS;Data+Analytics+%7C+IT+Project+Management;Turning+data+into+decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Banner GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+I'm a **Master's student in Business Information Systems** based in 🌏 Melbourne, Australia — passionate about bridging the gap between technology and business through data, process design, and smart systems.
+
+- 🏢 **Collection Consultant** at a commercial credit services company — managing client accounts and optimising collections workflows
+- 💻 **IT Service Desk Volunteer** at The Salvation Army Melbourne — providing technical support and resolving network issues
+- 🎓 Currently pursuing my **Master's in Business Information Systems**
+- 🔍 Actively seeking a **Summer Internship** in Business Information Systems, Data Analytics, or IT Project Management
+- 🌱 Expanding skills in **BPMN**, **data visualisation**, and **business intelligence tools**
+- ⚡ Fun fact: I love connecting dots between engineering thinking and business strategy!
+
+---
+
+## 🛠️ Technical Toolbox
+
+```text
+Data Analytics      ████████████████████░   90%
+Business Analysis   ███████████████████░░   88%
+IT Support          ████████████████████░   90%
+SQL                 ████████████████░░░░░   75%
+Python              █████████████░░░░░░░░   60%
+Power BI / Tableau  ███████████████░░░░░░   70%
+BPMN / Modelling    ████████████████░░░░░   75%
+Project Management  ███████████████████░░   85%
+```
+
+---
+
+## 💡 Skills & Technologies
+
+**Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange_Data_Mining-FF6600?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Business & Process**
+
+![BPMN](https://img.shields.io/badge/BPMN-009688?style=for-the-badge&logoColor=white)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-00A4E4?style=for-the-badge&logo=pipedrive&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**IT & Infrastructure**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Network_Support-00979D?style=for-the-badge&logoColor=white)
+![ServiceDesk](https://img.shields.io/badge/IT_Service_Desk-6DB33F?style=for-the-badge&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🐄 IoT Strategy for Udderly Good Dairy
+Strategic PESTLE & SWOT analysis for IoT implementation in a dairy farm context. Applied Soft Systems Methodology (SSM) to map complex business requirements.
+
+### 🏥 Digital Transformation in Healthcare
+Mixed-methods research on healthcare digital transformation — combining literature review with survey design (INF80003). Explored barriers and enablers of technology adoption.
+
+### 🌿 Green Meadows Plant Nursery System
+User requirements analysis and system design for a plant nursery. Applied structured elicitation techniques to document functional and non-functional requirements.
+
+### 📊 UCI Online Retail — Data Analytics
+Predictive modelling and data visualisation using the UCI Online Retail dataset. Techniques: decision trees, association rules, and k-means clustering in Orange Data Mining.
+
+### 🌟 Hopeful Horizons — Systems Analysis
+Relational and systems analysis for a community support organisation. Delivered HD-level critical analysis integrating stakeholder needs and process improvements.
+
+---
+
+## 📚 Academic Focus
+
+| Subject | Key Topics |
+|---|---|
+| INF80003 | Digital Transformation, Research Methods |
+| INF80001 | Requirements Analysis, Systems Thinking |
+| Business Intelligence | BPMN, Data Modelling, Process Optimisation |
+| Industry Capstone | Risk Assessment, Spreadsheet Automation |
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumithaaa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumitha2901@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://YOUR-PORTFOLIO-LINK-HERE)
+
+---
+
+![Footer GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+*"Without data, you're just another person with an opinion." – W. Edwards Deming*
+
+---
+
+⭐ **Open to internship opportunities in Melbourne (and remote) — let's build something impactful together!**
