@@ -8,13 +8,13 @@
 
 ## 🌸 About Me
 
-I'm a **Master's student in Business Information Systems** based in 🌏 Melbourne, Australia — passionate about bridging the gap between technology and business through data, process design, and smart systems.
+I'm a **Business Information Systems graduate** based in 🌏 Melbourne, Australia. I am passionate about bridging the gap between technology and business through AI automation, data, and smart systems.
 
-- 🏢 **Collection Consultant** at a commercial credit services company — managing client accounts and optimising collections workflows
+- 🏢 **Consumer Insights Consultant** at commercial credit services company — managing client accounts and optimising collections workflows
 - 💻 **IT Service Desk Volunteer** at The Salvation Army Melbourne — providing technical support and resolving network issues
-- 🎓 Currently pursuing my **Master's in Business Information Systems**
-- 🔍 Actively seeking a **Summer Internship** in Business Information Systems, Data Analytics, or IT Project Management
-- 🌱 Expanding skills in **BPMN**, **data visualisation**, and **business intelligence tools**
+- 🎓 Recently completed my **Master's in Business Information Systems** at Swinburne University
+- 🔍 Actively seeking **full-time roles** in Business Automation, Data Analytics, or IT Project Management
+- 🌱 Expanding skills in **AI tools**, **BPMN**, **data visualisation**, and **business intelligence**
 - ⚡ Fun fact: I love connecting dots between engineering thinking and business strategy!
 
 ---
@@ -59,18 +59,6 @@ Project Management  ███████████████████░
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Network_Support-00979D?style=for-the-badge&logoColor=white)
 ![ServiceDesk](https://img.shields.io/badge/IT_Service_Desk-6DB33F?style=for-the-badge&logoColor=white)
-
----
-
-## 📚 Academic Focus
-
-| Subject | Key Topics |
-|---|---|
-| INF80003 | Digital Transformation, Research Methods |
-| INF80001 | Requirements Analysis, Systems Thinking |
-| Business Intelligence | BPMN, Data Modelling, Process Optimisation |
-| Industry Capstone | Risk Assessment, Spreadsheet Automation |
-
 ---
 
 ## 🤝 Let's Connect!
